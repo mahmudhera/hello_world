@@ -1,2 +1,3 @@
 # hello_world
-This is my "Hello Wrld" project.
+## HELLO WORLD
+This is my "Hello World" project, readme edit. I am learning how to branch a master in this process. Overlook this.
